@@ -60,10 +60,10 @@ No package manager or build step required — the project uses zero dependencies
 
 ```bash
 # Clone the repository
-git clone https://git.us.qwasar.io/my_tetris_215848_sh8rhg/my_tetris.git
+git clone <repository-url>
 
 # Navigate into the project directory
-cd my_tetris
+cd tetris
 ```
 
 To start the local development server:
